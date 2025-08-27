@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Chhandos Mal
 
-<!--
-**Chhandos/Chhandos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-stack developer & AI/ML enthusiast  
+💡 Passionate about building scalable web apps and smart systems  
+📫 Reach me: chhandosxyz@gmail.com | [LinkedIn](https://www.linkedin.com/in/chhandos-mal-840268381/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+### Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" />
+</p>
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,html,css,js" />
+</p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### AI/ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,scikitlearn" />
+</p>
+
+### Databases & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode" />
+</p>
+
+---
+
+## 🔗 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/chhandos-mal-840268381/)  
+- 📧 Email: **chhandosxyz@gmail.com**
+
+---
+
+⭐️ From [Chhandos](https://github.com/Chhandos)
