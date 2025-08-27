@@ -30,7 +30,7 @@
 
 ### Databases & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" />
 </p>
 
 ---
